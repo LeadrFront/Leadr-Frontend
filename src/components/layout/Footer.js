@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://cruip.com">Max Aussem</a>. All rights reserved</div>
+            <div className="footer-copyright">Created by <a href="https://maxaussem.com/">Max Aussem</a></div>
           </div>
         </div>
       </div>
