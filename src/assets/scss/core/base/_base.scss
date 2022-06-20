@@ -17,6 +17,7 @@ html {
 }
 
 body {
+	margin: 0;
 	background-color: color-bg(footer);
 	background: url(../../../images/newBG.jpeg); /* Fallback for when there is no custom background color defined. */
 	background-attachment: fixed;
